@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab04part01</string>
+
+    <string name="title_activity_display">DisplayActivity</string>
+    <string name="button_return">Return</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string-array name="car_maker">
+        <item>Volvo</item>
+        <item>Mini</item>
+        <item>BMW</item>
+    </string-array>
+</resources>
